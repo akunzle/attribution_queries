@@ -5,7 +5,7 @@ CoolTShirts sells shirts of all kinds, as long as they are T-shaped and cool. Re
 A table describing each time a user visits the CoolTShirts website
 
 | Column | Description    |
-| :---   | :--- |
+| :----   | :---- |
 | user_id | A unique identifier for each visitor to a page   |
 | timestamp | The time at which the visitor came to the page   |
 | page_name | The title of the section of the page that was visited   |
